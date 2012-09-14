@@ -356,7 +356,7 @@ var collection = (function () {
             }
         }
     };
-}());
+})();
 ```
 
 ## 2.6.0 Statements
